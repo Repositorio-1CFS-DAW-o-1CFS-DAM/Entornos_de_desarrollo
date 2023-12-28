@@ -1,0 +1,49 @@
+informacion_personal:
+  nombre: Ximo Mingarro Sales
+  direccion: Grupo La Union M-17
+  telefono: 622466889
+  correo: ximomingarro@hotmail.com
+
+resumen: |
+  Soy un apasionado desarrollador de software con experiencia en varios lenguajes de programación y tecnologías web.
+
+experiencia_laboral:
+  - puesto: Desarrollador de Software
+    empresa: Robottions
+    periodo: Enero 2020 - presente
+    descripcion: Robotica.
+  - puesto: Programacion Robots
+    empresa: ROBOTTIONS
+    periodo: Junio 2020 - presente
+    descripcion: Programacion.
+
+educacion:
+  - titulo: DAW, DAM
+    institucion: IES Benigaslo
+    periodo: 2018-2020
+  - titulo: Automatizacion y Robotica Industrial
+    institucion: IES Botanic Cavanilles
+    periodo: 2016 - 2018
+
+habilidades:
+  - Java
+  - Python
+  - HTML/CSS
+  - JavaScript
+  - Git/GitHub
+  - SQL
+
+proyectos:
+  - nombre: Proyecto A
+    descripcion: Desarrollo de una aplicación web para gestión de tareas.
+  - nombre: Proyecto B
+    descripcion: Implementación de un sistema de recomendación utilizando algoritmos de machine learning.
+
+idiomas:
+  - idioma: Inglés
+    nivel: Avanzado
+
+certificaciones:
+  - certificacion: Certificado de Desarrollador Web
+    institucion: Certifying Body
+    fecha: Julio 2019
